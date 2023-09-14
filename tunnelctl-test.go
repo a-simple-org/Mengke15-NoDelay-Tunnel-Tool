@@ -78,3 +78,4 @@ func loadIPs() (netx.WeightedList, error) {
 
 	return ips, scanner.Err()
 }
+*/
