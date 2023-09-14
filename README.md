@@ -1,2 +1,2 @@
 # NoDelay-Tunnel-Tool
-This tunnel needs to be used in conjunction with NoDelay to achieve the best results.
+ - 本工具是一个隧道搭建程序，采用Golang编写。
